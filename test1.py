@@ -1,1 +1,2 @@
-this is a git test file
+this is a test file
+this is the second test
